@@ -1,0 +1,23 @@
+getmaxwt(int[] a, x);
+
+getmaxt(a, 10);
+getmaxt(a, 9);
+getmaxt(a, 8);
+
+
+getmax(a,w){
+max
+    for each item in a
+        if(w >= item.price )
+            totalprice = item.price + getmax(a, 10- item.weight)
+            max = max(max, total)
+        else {
+            continue;
+
+
+
+}
+
+0 1 1 2 3 5 8 13
+
+
